@@ -1,0 +1,17 @@
+.homeBody{
+    text-align: center;
+    font-size: 200%;
+}
+
+.buttonPlay{
+    border-radius: 10px;
+    width: 5%;
+    font-size: 20px;
+}
+
+.images{
+    display: grid;
+    justify-content: space-evenly;
+    /* grid-template-rows: repeat(5,1fr); */
+    grid-template-columns: repeat(4, 1fr);
+}
