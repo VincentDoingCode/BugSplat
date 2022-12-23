@@ -9,7 +9,7 @@
     font-size: 20px;
 }
 
-.images{
+.bugImages{
     display: grid;
     justify-content: space-evenly;
     /* grid-template-rows: repeat(5,1fr); */
